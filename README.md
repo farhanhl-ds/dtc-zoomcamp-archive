@@ -1,4 +1,4 @@
-# DataTalksClub Zoomcamps
+# DataTalksClub Zoomcamps Archives
 
 This repository contains my homework assignments, notes, experiments, and capstone projects from various DataTalksClub Zoomcamps.
 
