@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.env
+*.pyc
+
+# ONNX model files (gede, ~90MB)
+models/
